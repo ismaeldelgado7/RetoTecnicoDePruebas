@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Comprar cursos Online" tests="1" skipped="1" failures="0" errors="0" timestamp="2021-03-26T16:22:19" hostname="L507D0LB6CWVKW2" time="0.059">
+  <properties/>
+  <testcase name="Comprar cursos Online Selenium Ruby y Mastering JavaScript" classname="Comprar cursos Online" time="0.059">
+    <skipped/>
+  </testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

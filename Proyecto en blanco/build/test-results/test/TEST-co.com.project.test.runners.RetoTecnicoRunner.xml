@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="co.com.project.test.runners.RetoTecnicoRunner" tests="0" skipped="0" failures="0" errors="0" timestamp="1970-01-01T00:00:00" hostname="L507D0LB6CWVKW2" time="0.0">
+  <properties/>
+  <system-out><![CDATA[
+1 Scenarios (?[33m1 undefined?[0m)
+6 Steps (?[33m6 undefined?[0m)
+0m0.879s
+
+
+You can implement missing steps with the snippets below:
+
+
+@Dado("^ingreso a la pagina$")
+public void ingresoALaPagina() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new PendingException();
+}
+
+@Cuando("^Hago Click En los Cursos A Comprar$")
+public void hagoClickEnLosCursosAComprar() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new PendingException();
+}
+
+@Cuando("^Hago Click en el Carrito de Compras$")
+public void hagoClickEnElCarritoDeCompras() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new PendingException();
+}
+
+@Cuando("^Elimino el curso Selenium Ruby$")
+public void eliminoElCursoSeleniumRuby() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new PendingException();
+}
+
+@Entonces("^Debería Mostrar Curso Elegido$")
+public void deberíaMostrarCursoElegido() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new PendingException();
+}
+
+@Entonces("^no el precio debe ser mayor a (\\d+)$")
+public void noElPrecioDebeSerMayorA(int arg1) {
+    // Write code here that turns the phrase above into concrete actions
+    throw new PendingException();
+}
+
+]]></system-out>
+  <system-err><![CDATA[SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+]]></system-err>
+</testsuite>
